@@ -8,7 +8,6 @@ it includes the following features:
 * The use can manipulate the running signals through UI elements that provide the below function:
   - Change color  
   - Add a label/title for each signal
-  - Add a label/title for each signal
   - Show/hide
   - Control/customize the cine speed
   - Zoom in/out
